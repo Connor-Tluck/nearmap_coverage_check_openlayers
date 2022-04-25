@@ -32,6 +32,12 @@ https://tourmaline-custard-ff7a4b.netlify.app/
 
 openlayers map which uses api key to check available nearmap coverage data.
 
+Supports drag and drop for the following file types:
+  ```sh
+  gpx, geojson, igc, kml, kmz, topojson
+  ```
+
+
 Notes:
 
 - Developed to give more transparency on coverage without giving full mapbrowser access.
@@ -66,7 +72,7 @@ Clone Repo and Run npm install to install required packages
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at Nearmap Admin Page
 2. Clone the repo

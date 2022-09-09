@@ -50,7 +50,6 @@ Please keep up to date with the repo, as this is still in development. Node JS D
 
 ### Built With
 
-This section lists any major frameworks/libraries used to bootstrap your project.
 
 - [Node.js](https://nodejs.org/en/)
 - [JQuery](https://jquery.com)

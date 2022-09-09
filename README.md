@@ -71,7 +71,6 @@ Clone Repo and Run npm install to install required packages
 
 ### Installation
 
-Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at Nearmap Admin Page
 2. Clone the repo
